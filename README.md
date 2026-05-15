@@ -80,11 +80,14 @@ Luego se abrirá el navegador con la aplicación. Si no se abre automáticamente
 
 1. Carga el dataset de diabetes.
 2. Muestra una exploración inicial de los datos.
-3. Divide los datos en entrenamiento y prueba.
-4. Entrena un modelo Random Forest.
-5. Evalúa el modelo con accuracy, recall, F1-score y matriz de confusión.
-6. Permite ingresar datos de un nuevo paciente.
-7. Entrega una predicción de diabetes o no diabetes.
+3. Realiza limpieza de datos, tratando valores inválidos como ceros en variables médicas.
+4. Completa valores faltantes usando la mediana de cada columna.
+5. Divide los datos en entrenamiento y prueba.
+6. Entrena un modelo Random Forest.
+7. Evalúa el modelo con accuracy, recall, F1-score, reporte de clasificación y matriz de confusión.
+8. Muestra la importancia de las variables utilizadas por el modelo.
+9. Permite ingresar datos de un nuevo paciente.
+10. Entrega una predicción de diabetes o no diabetes.
 
 ## Nota importante
 
