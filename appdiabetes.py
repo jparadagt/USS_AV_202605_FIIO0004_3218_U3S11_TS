@@ -109,7 +109,7 @@ st.write(
     "Profesor: Dr. Mauricio Sepúlveda C."
 )
 st.write(
-    "Alumnos: Cristian Jaramillo B. / Jonathan Parada G."
+    "Alumnos: Cristian Jaramillo B. / Elizabeth Tiñini A. /Jonathan Parada G."
 )
 
 st.markdown("""

@@ -9,7 +9,7 @@ Introducción a la ciencia de datos
 Dr. Mauricio Sepúlveda C.
 
 ## Alumnos: 
-Cristian Jaramillo B. / Jonathan Parada G.
+Cristian Jaramillo B. / Elizabeth Tiñini A. /Jonathan Parada G.
 
 ## Descripción
 
